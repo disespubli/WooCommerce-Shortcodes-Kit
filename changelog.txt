@@ -1,0 +1,13 @@
+----------------------------------------------------------------------------------------------------------------------
+Woocommerce Shortcodes Kit v.1.0 (22/09/16) by Alberto G. - http://disespubli.com/woocommerce-shortcodes-kit
+
+Included:
+	
+	-> Let you show on any page or post the user purchase order with a simple shortcode: [my_orders]
+	-> Let you show on any page or post the user downloads with a simple shortcode: [my_downloads]
+	-> Safe Uninstall Method included.
+	-> General Public License (GPL2) copy.
+	-> Readme License.
+	-> User Documentation.
+
+----------------------------------------------------------------------------------------------------------------------
