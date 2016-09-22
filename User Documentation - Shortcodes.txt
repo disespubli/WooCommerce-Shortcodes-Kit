@@ -1,0 +1,8 @@
+To use Woocommerce Shortcodes Kit you dont need write code-lines. Is very easy!
+
+Only need copy & paste on any page or post the shortcode(s):
+
+	-> If you want show user purchase orders, use this Shortcode: [my_orders]
+
+	-> If you want show user downloads, use this Shortcode: [my_downloads]
+
