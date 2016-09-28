@@ -40,6 +40,8 @@ For more see screenshots.
 
 2. screenshot-2.jpeg
 
+3. screenshot-3.jpeg
+
 
 
 == Changelog ==
