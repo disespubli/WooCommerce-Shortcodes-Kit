@@ -48,9 +48,10 @@ Woo Shortcodes Kit v.1.0 (23/09/16) by Alberto G. - http://disespubli.com/woo-sh
 
 Included:
 	
-	-> Let you show on any page or post the user purchase order with a simple shortcode: [my_orders]
-	-> Let you show on any page or post the user downloads with a simple shortcode: [my_downloads]
-	-> Let you show on any page or post the total products count that you shop have: [my_products]
+	-> Let you show on any page or post the user purchase order with a simple shortcode: [woo_orders_list]
+	-> Let you show on any page or post the user downloads with a simple shortcode: [woo_downloads_list]
+	-> Let you show on any page or post the total products count that you shop have: [woo_total_products_counter]
+	-> Let you show on any page or post the global sales/downloads counter with a shortcode:[woo_global_sales]
 	-> Let you show on product summary the total sales/downloads product count, without shortcode!
 	-> Safe Uninstall Method included. (Hooks + Won't be deleted plugin correction)
 	-> Automatic js into admin footer.
